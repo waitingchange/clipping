@@ -7,6 +7,8 @@ var HelloWorldLayer = cc.Layer.extend({
         var size = cc.winSize;
 
 
+
+
         var spClose = new cc.Sprite(res.CloseNormal_png);
         spClose.setAnchorPoint(cc.p(0,0));
         spClose.setPosition(0,200);
